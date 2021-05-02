@@ -17,3 +17,8 @@
 - Запуск API тестов с помощью Newman в Jenkins, Gitlab CI, Teamcity
 - Тест загрузки файлов
 - Сотрудничество, используя командные рабочие окружения
+
+## Навигация
+
+- [1. Введение и первые шаги в Postman](./docs/1.%20Introduction%20and%20first%20steps%20in%20Postman)
+  - [1.1 Обзор курса](./docs/1.%20Introduction%20and%20first%20steps%20in%20Postman/1.1%20Course%20overview)
