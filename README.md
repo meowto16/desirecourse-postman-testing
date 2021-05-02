@@ -21,4 +21,4 @@
 ## Навигация
 
 - [1. Введение и первые шаги в Postman](./docs/1.%20Introduction%20and%20first%20steps%20in%20Postman)
-  - [1.1 Обзор курса](./docs/1.%20Introduction%20and%20first%20steps%20in%20Postman/1.1%20Course%20overview)
+  - [1.1 Обзор курса](./docs/1.%20Introduction%20and%20first%20steps%20in%20Postman/1.1.%20Course%20overview)
