@@ -28,3 +28,4 @@
   - [1.5. Postman обзор возможностей](./docs/1.%20Introduction%20and%20first%20steps%20in%20Postman/1.5.%20The%20Postman%20Landscape)
 - [2. Разбираемся с запросами к API](./docs/2.%20Creating%20with%20API%20requests)
   - [2.1. Заметка о RequestBin](./docs/2.%20Creating%20with%20API%20requests/2.1.%20Note%20about%20requestbin)
+  - [2.2. Создание запросов при помощи Postman](./docs/2.%20Creating%20with%20API%20requests/2.2.%20Creating%20Requests%20with%20Postman)
