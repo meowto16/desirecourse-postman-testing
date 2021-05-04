@@ -29,3 +29,5 @@
 - [2. Разбираемся с запросами к API](./docs/2.%20Creating%20with%20API%20requests)
   - [2.1. Заметка о RequestBin](./docs/2.%20Creating%20with%20API%20requests/2.1.%20Note%20about%20requestbin)
   - [2.2. Создание запросов при помощи Postman](./docs/2.%20Creating%20with%20API%20requests/2.2.%20Creating%20Requests%20with%20Postman)
+  - [2.3. Импорт запросов из браузера](./docs/2.%20Creating%20with%20API%20requests/2.3.%20Importing%20request%20from%20your%20browser)
+  - [2.4. Проверка ответов](./docs/2.%20Creating%20with%20API%20requests/2.4.%20Inspecting%20responses)
