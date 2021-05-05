@@ -6,3 +6,4 @@
 - [2.4. Проверка ответов](./2.4.%20Inspecting%20responses)
 - [2.5. Куки](./2.5.%20Cookies)
 - [2.6. Дебаг в Postman](./2.6.%20Troubleshooting)
+- [2.7. Сохранение запросов](./2.7.%20Saving%20requests)

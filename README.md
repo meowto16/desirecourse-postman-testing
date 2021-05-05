@@ -33,3 +33,4 @@
   - [2.4. Проверка ответов](./docs/2.%20Creating%20with%20API%20requests/2.4.%20Inspecting%20responses)
   - [2.5. Куки](./docs/2.%20Creating%20with%20API%20requests/2.5.%20Cookies)
   - [2.6. Дебаг в Postman](./docs/2.%20Creating%20with%20API%20requests/2.6.%20Troubleshooting)
+  - [2.7. Сохранение запроса](./docs/2.%20Creating%20with%20API%20requests/2.7.%20Saving%20requests)
