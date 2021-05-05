@@ -31,3 +31,6 @@
   - [2.2. Создание запросов при помощи Postman](./docs/2.%20Creating%20with%20API%20requests/2.2.%20Creating%20Requests%20with%20Postman)
   - [2.3. Импорт запросов из браузера](./docs/2.%20Creating%20with%20API%20requests/2.3.%20Importing%20request%20from%20your%20browser)
   - [2.4. Проверка ответов](./docs/2.%20Creating%20with%20API%20requests/2.4.%20Inspecting%20responses)
+  - [2.5. Куки](./docs/2.%20Creating%20with%20API%20requests/2.5.%20Cookies)
+  - [2.6. Дебаг в Postman](./docs/2.%20Creating%20with%20API%20requests/2.6.%20Troubleshooting)
+  - [2.7. Сохранение запроса](./docs/2.%20Creating%20with%20API%20requests/2.7.%20Saving%20requests)
