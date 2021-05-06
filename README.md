@@ -36,3 +36,4 @@
   - [2.7. Сохранение запроса](./docs/2.%20Creating%20with%20API%20requests/2.7.%20Saving%20requests)
 - [3. Написание тестов и скриптов](./docs/3.%20Writing%20tests%20and%20scripts)
   - [3.1. Введение](./docs/3.%20Writing%20tests%20and%20scripts/3.1.%20Introduction)
+  - [3.2. Шпаргалки](./docs/3.%20Writing%20tests%20and%20scripts/3.2.%20Cheatsheet)
