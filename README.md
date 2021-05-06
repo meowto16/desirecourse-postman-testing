@@ -37,3 +37,4 @@
 - [3. Написание тестов и скриптов](./docs/3.%20Writing%20tests%20and%20scripts)
   - [3.1. Введение](./docs/3.%20Writing%20tests%20and%20scripts/3.1.%20Introduction)
   - [3.2. Шпаргалки](./docs/3.%20Writing%20tests%20and%20scripts/3.2.%20Cheatsheet)
+  - [3.3. Ваш первый тест](./docs/3.%20Writing%20tests%20and%20scripts/3.3.%20Your%20first%20test)
