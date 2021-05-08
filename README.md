@@ -39,3 +39,4 @@
   - [3.2. Шпаргалки](./docs/3.%20Writing%20tests%20and%20scripts/3.2.%20Cheatsheet)
   - [3.3. Ваш первый тест](./docs/3.%20Writing%20tests%20and%20scripts/3.3.%20Your%20first%20test)
   - [3.4. Тестируем API](./docs/3.%20Writing%20tests%20and%20scripts/3.4.%20Testing%20an%20API)
+  - [3.5. Тестируем API - Пишем больше тестов](./docs/3.%20Writing%20tests%20and%20scripts/3.5.%20Testing%20an%20API%20-%20Writing%20more%20tests)
