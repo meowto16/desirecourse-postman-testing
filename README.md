@@ -40,3 +40,4 @@
   - [3.3. Ваш первый тест](./docs/3.%20Writing%20tests%20and%20scripts/3.3.%20Your%20first%20test)
   - [3.4. Тестируем API](./docs/3.%20Writing%20tests%20and%20scripts/3.4.%20Testing%20an%20API)
   - [3.5. Тестируем API - Пишем больше тестов](./docs/3.%20Writing%20tests%20and%20scripts/3.5.%20Testing%20an%20API%20-%20Writing%20more%20tests)
+  - [3.6 Вывод. Path параметры vs query параметры.](./docs/3.%20Writing%20tests%20and%20scripts/3.6.%20Recap%20Path%20parameters%20vs%20query%20parameters)
