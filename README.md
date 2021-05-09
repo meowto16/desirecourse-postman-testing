@@ -45,3 +45,4 @@
 - [4. Пишем тесты и скрипты используя переменные](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables)
   - [4.1. Переменные (Variables)](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.1.%20Variables)
   - [4.2. Глобальные переменные (Global variables)](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.2.%20Global%20variables)
+  - [4.3. Окружение](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.3.%20Environment)
