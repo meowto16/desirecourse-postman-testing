@@ -42,3 +42,7 @@
   - [3.5. Тестируем API - Пишем больше тестов](./docs/3.%20Writing%20tests%20and%20scripts/3.5.%20Testing%20an%20API%20-%20Writing%20more%20tests)
   - [3.6 Вывод. Path параметры vs query параметры.](./docs/3.%20Writing%20tests%20and%20scripts/3.6.%20Recap%20Path%20parameters%20vs%20query%20parameters)
   - [3.7. Рефакторим тест](./docs/3.%20Writing%20tests%20and%20scripts/3.7.%20Refactoring%20Tests)
+- [4. Пишем тесты и скрипты используя переменные](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables)
+  - [4.1. Переменные (Variables)](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.1.%20Variables)
+  - [4.2. Глобальные переменные (Global variables)](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.2.%20Global%20variables)
+  - [4.3. Окружение](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.3.%20Environment)
