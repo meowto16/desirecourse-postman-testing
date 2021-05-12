@@ -47,3 +47,4 @@
   - [4.2. Глобальные переменные (Global variables)](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.2.%20Global%20variables)
   - [4.3. Окружение](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.3.%20Environment)
   - [4.4. Сессии](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.4.%20Session%20variables%20(new%20in%20Postman%206.2!))
+  - [4.5. Bulk редактирование](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.5.%20Bulk%20editing%20removed%20new%20in%20Postman%206.2!)
