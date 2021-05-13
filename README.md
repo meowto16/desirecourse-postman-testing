@@ -49,3 +49,4 @@
   - [4.4. Сессии](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.4.%20Session%20variables%20(new%20in%20Postman%206.2!))
   - [4.5. Bulk редактирование](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.5.%20Bulk%20editing%20removed%20new%20in%20Postman%206.2!)
   - [4.6. Pre-request скрипты](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.6.%20Pre-request%20scripts)
+  - [4.8. Understanding different variable scopes types](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.8.%20Understanding%20different%20variable%20scopes%20%20types)
