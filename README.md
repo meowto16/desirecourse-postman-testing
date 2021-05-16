@@ -51,3 +51,5 @@
   - [4.6. Pre-request скрипты](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.6.%20Pre-request%20scripts)
   - [4.8. Understanding different variable scopes types](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.8.%20Understanding%20different%20variable%20scopes%20%20types)
   - [4.9. How to setup different URLs using environments](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.9.%20How%20to%20setup%20different%20URLs%20using%20environments)
+  - [4.10. Debugging tests](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.10.%20Debugging%20tests)
+  - [4.11. Заметка о старом API Postman (гайд миграции)](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.11.%20Notice%20about%20the%20old%20Postman%20scripting%20API)
