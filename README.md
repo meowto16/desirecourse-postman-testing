@@ -55,3 +55,4 @@
   - [4.11. Заметка о старом API Postman (гайд миграции)](./docs/4.%20Writing%20tests%20and%20scripts%20using%20variables/4.11.%20Notice%20about%20the%20old%20Postman%20scripting%20API)
 - [5. Практика в построении и тестировании API используя Github и Twillo](./docs/5.%20Hands-on%20Practice%20Building%20&%20Testing%20an%20API%20workflow%20using%20Github%20&%20Twilio)
   - [5.1. О секции](./docs/5.%20Hands-on%20Practice%20Building%20&%20Testing%20an%20API%20workflow%20using%20Github%20&%20Twilio/5.1.%20About%20this%20section)
+  - [5.2. Введение в Github API](./docs/5.%20Hands-on%20Practice%20Building%20&%20Testing%20an%20API%20workflow%20using%20Github%20&%20Twilio/5.2.%20Introduction%20to%20the%20Github%20API%20(provide%20collection%20and%20first%20request))
