@@ -56,3 +56,4 @@
 - [5. Практика в построении и тестировании API используя Github и Twillo](./docs/5.%20Hands-on%20Practice%20Building%20&%20Testing%20an%20API%20workflow%20using%20Github%20&%20Twilio)
   - [5.1. О секции](./docs/5.%20Hands-on%20Practice%20Building%20&%20Testing%20an%20API%20workflow%20using%20Github%20&%20Twilio/5.1.%20About%20this%20section)
   - [5.2. Введение в Github API](./docs/5.%20Hands-on%20Practice%20Building%20&%20Testing%20an%20API%20workflow%20using%20Github%20&%20Twilio/5.2.%20Introduction%20to%20the%20Github%20API%20(provide%20collection%20and%20first%20request))
+  - [5.4. Введение в двухфакторную аутентификацию](./docs/5.%20Hands-on%20Practice%20Building%20&%20Testing%20an%20API%20workflow%20using%20Github%20&%20Twilio/5.4.%20Introduction%20into%202FA)
